@@ -1,0 +1,112 @@
+{
+  "buttons": [
+    [
+      {
+        "key": "percent_button",
+        "text": "%"
+      },
+      {
+        "key": "reset_current_number_button",
+        "text": "CE"
+      },
+      {
+        "key": "reset_button",
+        "text": "C"
+      },
+      {
+        "key": "delete_last_entity_button",
+        "text": ""
+      }
+    ],
+    [
+      {
+        "key": "invert_button",
+        "text": "1/x"
+      },
+      {
+        "key": "square_button",
+        "text": "x²"
+      },
+      {
+        "key": "square_root_button",
+        "text": "√x"
+      },
+      {
+        "key": "divide_button",
+        "text": "÷"
+      }
+    ],
+    [
+      {
+        "key": "digit7_button",
+        "text": "7"
+      },
+      {
+        "key": "digit8_button",
+        "text": "8"
+      },
+      {
+        "key": "digit9_button",
+        "text": "9"
+      },
+      {
+        "key": "multiply_button",
+        "text": "×"
+      }
+    ],
+    [
+      {
+        "key": "digit4_button",
+        "text": "4"
+      },
+      {
+        "key": "digit5_button",
+        "text": "5"
+      },
+      {
+        "key": "digit6_button",
+        "text": "6"
+      },
+      {
+        "key": "subtract_button",
+        "text": "−"
+      }
+    ],
+    [
+      {
+        "key": "digit1_button",
+        "text": "1"
+      },
+      {
+        "key": "digit2_button",
+        "text": "2"
+      },
+      {
+        "key": "digit3_button",
+        "text": "3"
+      },
+      {
+        "key": "add_button",
+        "text": "+"
+      }
+    ],
+    [
+      {
+        "key": "negate_button",
+        "text": "±"
+      },
+      {
+        "key": "digit0_button",
+        "text": "0"
+      },
+      {
+        "key": "period_button",
+        "text": ","
+      },
+      {
+        "key": "calculate_button",
+        "text": "="
+      }
+    ]
+  ]
+}
